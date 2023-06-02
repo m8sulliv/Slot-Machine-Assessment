@@ -1,4 +1,4 @@
-# Slot-Maching-Assessment
+# Slot-Machine-Assessment
 Technical Interview for a Slot Machine Game
 
 Imagine a simple three-reel slot machine. Each of the three reels contain a total of 72 symbols
